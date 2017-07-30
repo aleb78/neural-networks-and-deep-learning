@@ -1,6 +1,6 @@
 # Code samples for "Neural Networks and Deep Learning" - Porting to Python3 and TensorFlow
 
-This repository contains code samples for my book on ["Neural Networks
+This repository contains code samples for the book on ["Neural Networks
 and Deep Learning"](http://neuralnetworksanddeeplearning.com).
 
 I use this repository as an exercise to port the code to Python3 and make use of TensorFlow. 
